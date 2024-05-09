@@ -18,4 +18,4 @@ Education
 * B.S. in Economics, Instituto Tecnológico Autónomo de México (ITAM), 2012
 
 
-You can download the latest version of my CV [here](https://github.com/pmasae/pmasae.github.io/blob/master/_publications/CV_PFMS.pdf).
+You can download the latest version of my CV [here](https://github.com/pmasae/pmasae.github.io/blob/master/_publications/PFMS_CV_20240509.pdf).
