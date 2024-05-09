@@ -2,7 +2,7 @@
 title: "University of Wisconsin -- Madison"
 collection: teaching
 permalink: /teaching/2015-spring-teaching-2
-date: 2020-2024
+date: 2024-05-09
 ---
 
 Teaching Assistant

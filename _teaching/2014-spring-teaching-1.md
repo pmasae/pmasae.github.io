@@ -2,7 +2,7 @@
 title: "University of Michigan -- Ann Arbor"
 collection: teaching
 permalink: /teaching/2014-spring-teaching-1
-date: 2016-2019
+date: 2019-05-25
 ---
 
 Teaching Assistant
