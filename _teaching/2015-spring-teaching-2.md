@@ -1,11 +1,10 @@
 ---
 title: "University of Wisconsin -- Madison"
 collection: teaching
-type: "Undergraduate courses"
 permalink: /teaching/2015-spring-teaching-2
 ---
 
-Teaching Assistant, University of Wisconsin -- Madison
+Teaching Assistant
 ======
 
 - AAE 350: World Hunger and Malnutrition -- Spring 2022

@@ -1,11 +1,10 @@
 ---
 title: "University of Michigan -- Ann Arbor"
 collection: teaching
-type: "Undergraduate and Graduate courses"
 permalink: /teaching/2014-spring-teaching-1
 ---
 
-Teaching Assistant, University of Michigan -- Ann Arbor
+Teaching Assistant
 ======
 
 - PUBPOL 639: Quantitative Methods for Program Evaluation -- Spring 2019
