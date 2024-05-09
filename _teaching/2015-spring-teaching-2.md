@@ -1,6 +1,7 @@
 ---
 title: "University of Wisconsin"
 collection: teaching
+type: "Undergraduate courses"
 permalink: /teaching/2015-spring-teaching-2
 venue: "Department of Mathematics & Department of Agricultural and Applied Economics"
 date: 2024-05-09
