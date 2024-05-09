@@ -1,20 +1,13 @@
 ---
-title: "Teaching experience 2"
+title: "University of Wisconsin -- Madison"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate courses"
+permalink: /teaching/2015-spring-teaching-2
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Teaching Assistant, University of Wisconsin -- Madison
 ======
 
-Heading 2
-======
+- AAE 350: World Hunger and Malnutrition -- Spring 2022
+- MATH 221: Calculus and Analytic Geometry II -- Fall 2020
 
-Heading 3
-======

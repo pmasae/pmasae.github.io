@@ -1,20 +1,14 @@
 ---
-title: "Teaching experience 1"
+title: "University of Michigan -- Ann Arbor"
 collection: teaching
-type: "Undergraduate course"
+type: "Undergraduate and Graduate courses"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+Teaching Assistant, University of Michigan -- Ann Arbor
 ======
 
-Heading 2
-======
-
-Heading 3
-======
+- PUBPOL 639: Quantitative Methods for Program Evaluation -- Spring 2019
+- POLSCI 369: International Economic Relations -- Fall 2018
+- PUBPOL 639: Quantitative Methods for Program Evaluation -- Spring 2018
+- POLSCI 490: Game Theory and Formal Models -- Fall 2017
