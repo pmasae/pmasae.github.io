@@ -64,7 +64,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : @pmasae
+  twitter          : pmasae
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -120,7 +120,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @pmasae
+  username               : pmasae
 facebook:
   username               :
   app_id                 :
