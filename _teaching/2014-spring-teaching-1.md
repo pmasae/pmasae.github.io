@@ -1,7 +1,7 @@
 ---
 title: "University of Michigan"
 collection: teaching
-ype: "Graduate and Undergraduate courses"
+type: "Graduate and Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1
 venue: "School of Public Policy & Department of Political Science"
 date: 2019-05-25
