@@ -3,7 +3,7 @@ title: "University of Michigan"
 collection: teaching
 type: "Graduate and Undergraduate courses"
 permalink: /teaching/2014-spring-teaching-1
-venue: "School of Public Policy & Department of Political Science"
+venue: "Ford School of Public Policy & Department of Political Science"
 date: 2019-05-25
 location: "Ann Arbor, USA"
 ---
