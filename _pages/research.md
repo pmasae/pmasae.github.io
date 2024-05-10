@@ -13,4 +13,4 @@ author_profile: true
 
 - **Signed, sealed, delivered: Digital receipts in the Ugandan dairy chain** - with [David Henning](https://djhenning.github.io/) (Data collection ongoing)
 
-- **Conflict and financial inclusion - Evidence from Mexico** (Data analysis ongoing)
+- **Conflict and financial inclusion: Evidence from Mexico** (Data analysis ongoing)
