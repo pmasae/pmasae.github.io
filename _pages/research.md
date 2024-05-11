@@ -20,4 +20,4 @@ author_profile: true
 
 ### Publications <a name="publications"></a>
 
-Magana Saenz, P. (2015). Behavioral Economics and Nudges Applied to Pawnshops. [Gaceta de Economía](http://gacetadeeconomia.itam.mx/docs/gaceta34.pdf), 34, 96-126
+- Magana Saenz, P. (2015). **Behavioral Economics and Nudges Applied to Pawnshops**. [Gaceta de Economía](http://gacetadeeconomia.itam.mx/docs/gaceta34.pdf), 34, 96-126
