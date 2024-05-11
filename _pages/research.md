@@ -9,9 +9,6 @@ author_profile: true
 - [Selected works in progress](#selected-works-in-progress)
 - [Publications](#publications) -->
 
-### Publications <a name="publications"></a>
-
-Magana Saenz, P.F. (2015). Behavioral Economics and Nudges Applied to Pawnshops. [Gaceta de Economía, 34, 96-126] (http://gacetadeeconomia.itam.mx/docs/gaceta34.pdf)
 
 ### Research in progress <a name="in-progress"></a>
 
@@ -19,3 +16,8 @@ Magana Saenz, P.F. (2015). Behavioral Economics and Nudges Applied to Pawnshops.
 
 
 - **Conflict and financial inclusion: Evidence from Mexico** (Data analysis ongoing)
+
+
+### Publications <a name="publications"></a>
+
+Magana Saenz, P.F. (2015). Behavioral Economics and Nudges Applied to Pawnshops. [Gaceta de Economía](http://gacetadeeconomia.itam.mx/docs/gaceta34.pdf), 34, 96-126
