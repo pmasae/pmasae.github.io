@@ -17,6 +17,7 @@ My research is at the intersection of development economics, financial inclusion
 I received my bachelor’s degree in economics at ITAM (Mexico City) and received a dual master’s degree in Applied Economics and Public Policy at the University of Michigan -- Ann Arbor.
 
 
+
 **References**
   - [Laura Schechter](https://aae.wisc.edu/faculty/lschechter/) [[Email](mailto:lschechter@wisc.edu)] (Advisor)
   - [Priya Mukherjee](https://aae.wisc.edu/faculty/pmukherjee7/) [[Email](mailto:priya.mukherjee@wisc.edu)]
