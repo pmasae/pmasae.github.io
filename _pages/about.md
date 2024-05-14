@@ -12,7 +12,7 @@ redirect_from:
 
 Hi there! I'm a fourth year Ph.D. candidate in Applied Economics at the University of Wisconsin -- Madison. 
 
-My research is at the intersection of development economics, financial inclusion, and technology adoption.
+My research is at the intersection of development economics, financial inclusion, and applied microeconomics.
 
 I received my bachelor’s degree in economics at ITAM (Mexico City) and received a dual master’s degree in Applied Economics and Public Policy at the University of Michigan -- Ann Arbor.
 
