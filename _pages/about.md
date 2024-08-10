@@ -19,6 +19,6 @@ I received my bachelor’s degree in economics at ITAM (Mexico City) and receive
 
 
 **References**
-  - [Laura Schechter](https://aae.wisc.edu/faculty/lschechter/) [[Email](mailto:lschechter@wisc.edu)] (Advisor)
+  - [Laura Schechter](https://econ.wisc.edu/staff/schechter-laura/) [[Email](mailto:lschechter@wisc.edu)] (Advisor)
   - [Priya Mukherjee](https://aae.wisc.edu/faculty/pmukherjee7/) [[Email](mailto:priya.mukherjee@wisc.edu)]
   - [Andrew Stevens](https://aae.wisc.edu/faculty/awstevens/) [[Email](mailto:awstevens@wisc.edu)]
