@@ -12,7 +12,9 @@ author_profile: true
 
 ### Research in progress <a name="in-progress"></a>
 
-- **Signed, sealed, delivered: Digital receipts in the Ugandan dairy chain** - with [David Henning](https://djhenning.github.io/) (Data collection ongoing) - [AEA RCT Registry](https://www.socialscienceregistry.org/trials/14087)
+- **Signed, sealed, delivered: Digital receipts in the Ugandan dairy chain** - with [David Henning](https://djhenning.github.io/) (Data collection ongoing) 
+	
+	[AEA RCT Registry](https://www.socialscienceregistry.org/trials/14087)
 
 
 - **Conflict and financial inclusion: Evidence from Mexico** (Data analysis ongoing)
