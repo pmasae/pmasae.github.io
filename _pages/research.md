@@ -19,6 +19,8 @@ author_profile: true
 
 - **Conflict and financial inclusion: Evidence from Mexico** (Data analysis ongoing)
 
+- **From Prayer to Progress: Religious Festivals and Development in Mexico** 
+
 
 ### Publications <a name="publications"></a>
 
