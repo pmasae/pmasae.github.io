@@ -17,7 +17,7 @@ author_profile: true
 	[AEA RCT Registry](https://www.socialscienceregistry.org/trials/14087)
 
 
-- **Conflict and financial inclusion: Evidence from Mexico** (Data analysis ongoing)
+- **Banking Amidst Conflict: How Violence Shapes Financial Inclusion in Mexico** (Data analysis ongoing)
 
 - **From Prayer to Progress: Religious Festivals and Development in Mexico** 
 
