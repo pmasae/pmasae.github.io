@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Teaching"
+title: "Teaching Experience"
 permalink: /teaching/
 author_profile: true
 ---
 
-### University of Wisconsin <a name="UW"></a>
+### University of Wisconsin -- Madison <a name="UW"></a>
 
 ---
 Teaching Assistant -- Department of Mathematics & Department of Agricultural and Applied Economics
@@ -13,8 +13,8 @@ Teaching Assistant -- Department of Mathematics & Department of Agricultural and
 - AAE 350: World Hunger and Malnutrition -- Spring 2022
 - MATH 221: Calculus and Analytic Geometry II -- Fall 2020
 
----
-### University of Wisconsin <a name="UM"></a>
+
+### University of Michigan -- Ann Arbor <a name="UM"></a>
 ---
 
 Teaching Assistant -- Ford School of Public Policy & Department of Political Science
