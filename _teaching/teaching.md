@@ -12,7 +12,6 @@ Teaching Assistant -- Department of Mathematics & Department of Agricultural and
 - AAE 350: World Hunger and Malnutrition -- Spring 2022
 - MATH 221: Calculus and Analytic Geometry II -- Fall 2020
 
----
 
 ### University of Michigan -- Ann Arbor <a name="UM"></a>
 
