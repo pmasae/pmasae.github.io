@@ -10,9 +10,9 @@ author_profile: true
 - [Publications](#publications) -->
 
 
-### Research in progress <a name="in-progress"></a>
+### Selected research in progress <a name="in-progress"></a>
 
-- **Signed, Sealed, Delivered: Digital Receipts in the Ugandan Dairy Chain** - with [David Henning](https://djhenning.github.io/) (Data collection completed) 
+- **Signed, Sealed, Delivered: Digital Receipts in the Ugandan Dairy Chain** - with [David Henning](https://djhenning.github.io/) (Data collection completed, Draft in progress) 
 	
 	[AEA RCT Registry](https://www.socialscienceregistry.org/trials/14087)
 
