@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "PFMS_pic.jpeg"
   name             : "Pedro Magana Saenz"
-  pronouns         : "he/his"  
+  pronouns         : # Pronouns 
   bio              : "Ph.D. Candidate at University of Wisconsin-Madison"
   location         : "Madison, WI"
   employer         : "University of Wisconsin"
