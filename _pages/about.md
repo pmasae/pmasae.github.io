@@ -16,7 +16,7 @@ My research lies at the intersection of applied microeconomics and international
 
 I received my bachelor’s degree in Economics at ITAM (Mexico City) and received a dual master’s degree in Applied Economics and Public Policy at the University of Michigan -- Ann Arbor.
 
-
+**I will be on the 2025-26 job market.**
 
 **References**
   - [Laura Schechter](https://econ.wisc.edu/staff/schechter-laura/) [[Email](mailto:lschechter@wisc.edu)] (Advisor)
