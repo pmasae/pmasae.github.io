@@ -21,7 +21,7 @@ I received my bachelor’s degree in Economics from ITAM (Mexico City) and hold 
 ### Job Market <a name="JM"></a>
 
 **I will be on the 2025–26 academic job market.**  
-If you're interested in my work or would like to connect, feel free to [reach out](mailto:maganasaenz@wisc.edu)!
+If you're interested in my work or would like to connect, feel free to [get it touch](mailto:maganasaenz@wisc.edu)!
 
 ---
 ### Upcoming Travel <a name="Travels"></a>
