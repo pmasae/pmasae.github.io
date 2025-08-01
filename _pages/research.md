@@ -12,7 +12,8 @@ author_profile: true
 
 ### Selected research in progress <a name="in-progress"></a>
 
-- **Signed, Sealed, Delivered: Digital Receipts in the Ugandan Dairy Chain** - with [David Henning](https://djhenning.github.io/)  (Data collection completed, Draft in progress) 
+- **Signed, Sealed, Delivered: Digital Receipts in the Ugandan Dairy Chain** - with [David Henning](https://djhenning.github.io/) (Data collection completed, Draft in progress) 
+	
 	*Presented at: AAEA & WAEA 2025, AFE 2025*
 	
 	[AEA RCT Registry](https://www.socialscienceregistry.org/trials/14087)
@@ -23,7 +24,7 @@ author_profile: true
 
 	**Abstract:** We investigate how conflict influences the use of formal financial services in Mexico. Using police reports and death records from the Ministry of Health, we construct municipality-level forecasts of expected violence from 2011 to 2020. Deviations from these forecasts—months with unexpectedly high violence—serve as proxies for unanticipated public safety shocks. We then study how these localized, time-specific episodes affect individuals’ use of financial services, distinguishing between traditional banking channels and non-traditional outlets. Our analysis leverages administrative transaction data from the National Banking and Securities Commission, covering all municipalities in Mexico over the same period. We also examine whether security concerns accelerate the adoption of digital financial tools as a risk mitigation strategy. By focusing on behavioral responses to violence—rather than long-run correlations—we shed light on the indirect transaction costs of insecurity and the adaptive strategies households use to navigate fragile environments. This research contributes to the growing literature on financial inclusion in conflict-affected settings and offers insights for designing more resilient financial systems in the face of localized violence.
 
-- **From Prayer to Progress: Religious Festivals and Development in Mexico**  (Data analysis ongoing)
+- **From Prayer to Progress: Religious Festivals and Development in Mexico** (Data analysis ongoing)
 
 
 ### Publications (Pre-Doctoral) <a name="publications"></a>
