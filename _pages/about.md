@@ -10,15 +10,16 @@ redirect_from:
 
 
 
-Hi there! I'm a Ph.D. candidate in Applied Economics at the University of Wisconsin -- Madison. 
+Hi there! I’m a Ph.D. candidate in Applied Economics at the University of Wisconsin–Madison.
 
 My research lies at the intersection of applied microeconomics and international development. Over the past ten years, I have conducted research in Mexico, El Salvador, Malawi, and Uganda.
 
-I received my bachelor’s degree in Economics at ITAM (Mexico City) and received a dual master’s degree in Applied Economics and Public Policy at the University of Michigan -- Ann Arbor.
+I received my bachelor’s degree in Economics from ITAM (Mexico City) and hold a dual master’s in Applied Economics and Public Policy from the University of Michigan–Ann Arbor.
 
 **I will be on the 2025-26 job market.**
 
 *Updates:*
+
 I’ll be in Chicago for the AFE 2025 Conference on September 18–19. If you’ll be around and want to chat about research—or just catch up over coffee—feel free to reach out!
 
 **References**
