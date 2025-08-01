@@ -16,12 +16,7 @@ My research lies at the intersection of applied microeconomics and international
 
 I received my bachelor’s degree in Economics from ITAM (Mexico City) and hold a dual master’s in Applied Economics and Public Policy from the University of Michigan–Ann Arbor.
 
----
-
-### Job Market <a name="JM"></a>
-
-**I will be on the 2025–26 academic job market.**  
-If you're interested in my work or would like to connect, feel free to [get in touch](mailto:maganasaenz@wisc.edu)!
+**I will be on the 2025–26 academic job market.** If you're interested in my work or would like to connect, feel free to [get in touch](mailto:maganasaenz@wisc.edu)!
 
 ---
 ### Upcoming Travel <a name="Travels"></a>
