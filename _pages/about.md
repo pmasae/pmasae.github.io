@@ -24,14 +24,12 @@ I received my bachelor’s degree in Economics from ITAM (Mexico City) and hold 
 If you're interested in my work or would like to connect, feel free to [reach out](mailto:maganasaenz@wisc.edu)!
 
 ---
-
 ### Upcoming Travel <a name="Travels"></a>
 
 I’ll be in **Chicago for the AFE 2025 Conference** on **September 18–19**. 
 If you’ll be around and want to chat about research—or just catch up over coffee—feel free to reach out!
 
 ---
-
 ### References <a name="Refs"></a>
 
   - [Laura Schechter](https://econ.wisc.edu/staff/schechter-laura/) [[Email](mailto:lschechter@wisc.edu)] (Advisor)
