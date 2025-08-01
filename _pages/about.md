@@ -16,13 +16,24 @@ My research lies at the intersection of applied microeconomics and international
 
 I received my bachelor’s degree in Economics from ITAM (Mexico City) and hold a dual master’s in Applied Economics and Public Policy from the University of Michigan–Ann Arbor.
 
-**I will be on the 2025-26 job market.**
+---
 
-*Updates:*
+###Job Market
 
-I’ll be in Chicago for the AFE 2025 Conference on September 18–19. If you’ll be around and want to chat about research—or just catch up over coffee—feel free to reach out!
+**I will be on the 2025–26 academic job market.**  
+If you're interested in my work or would like to connect, feel free to [reach out](mailto:maganasaenz@wisc.edu)!
 
-**References**
+---
+
+###Upcoming Travel
+
+I’ll be in **Chicago for the AFE 2025 Conference** on **September 18–19**.  
+If you’ll be around and want to chat about research—or just catch up over coffee—feel free to reach out!
+
+---
+
+###References
+
   - [Laura Schechter](https://econ.wisc.edu/staff/schechter-laura/) [[Email](mailto:lschechter@wisc.edu)] (Advisor)
   - [Priya Mukherjee](https://aae.wisc.edu/faculty/pmukherjee7/) [[Email](mailto:priya.mukherjee@wisc.edu)]
   - [Andrew Stevens](https://aae.wisc.edu/faculty/awstevens/) [[Email](mailto:awstevens@wisc.edu)]
