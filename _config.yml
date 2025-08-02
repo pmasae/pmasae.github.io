@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Pedro Magana Saenz"
+title                    : "Pedro Magaña Sáenz"
 title_separator          : "-"
-name                     : &name "Pedro Magana Saenz"
+name                     : &name "Pedro Magaña Sáenz"
 description              : &description "Ph.D. candidate at UW-Madison"
 url                      : https://pmasae.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -22,7 +22,7 @@ repository               : "pmasae/pmasae.github.io"
 author:
   # Biographic information
   avatar           : "PFMS_headshot.jpg"
-  name             : "Pedro Magana Saenz"
+  name             : "Pedro Magaña Sáenz"
   pronouns         : # Pronouns 
   bio              : "Ph.D. candidate at University of Wisconsin-Madison"
   location         : "Madison, WI"

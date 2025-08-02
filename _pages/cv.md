@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-You can download the latest version of my CV [here](https://pmasae.github.io/publications/20250728_PFMS_CV.pdf).
+You can download the latest version of my CV [here](https://pmasae.github.io/publications/20250802_PFMS_CV.pdf).
