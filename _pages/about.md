@@ -12,7 +12,7 @@ redirect_from:
 
 Hi there! I’m a Ph.D. candidate in Applied Economics at the University of Wisconsin–Madison.
 
-I am an applied microeconomist working at the intersection of international development and public economics, with a focus on agricultural and rural markets. My work combines field experiments and administrative data to study how policies, institutions, and firms shape economic behavior in low- and middle-income countries---particularly within agricultural value chains and smallholder settings. Over the past decade, I have conducted research in Mexico, El Salvador, Malawi, and Uganda.
+I am an applied microeconomist working at the intersection of international development and public economics, with a focus on agricultural and rural markets. My research combines field experiments and administrative data to study how policies, institutions, and firms shape economic behavior in low- and middle-income countries---particularly within agricultural value chains and smallholder settings. Over the past decade, I've conducted research in Mexico, El Salvador, Malawi, and Uganda.
 
 I received my bachelor’s degree in Economics from ITAM (Mexico City) and hold a dual master’s in Applied Economics and Public Policy from the University of Michigan–Ann Arbor.
 
