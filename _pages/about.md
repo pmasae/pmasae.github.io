@@ -12,7 +12,9 @@ redirect_from:
 
 Hi there! I’m a Ph.D. candidate in Applied Economics at the University of Wisconsin–Madison.
 
-I am an applied microeconomist working at the intersection of development economics, organizational economics, and public policy, with a focus on rural markets and firms. My research combines field experiments and administrative data to study how policies, institutions, and firms shape economic behavior---particularly within agricultural value chains and smallholder settings. Over the past decade, I've conducted research in Mexico, El Salvador, Malawi, and Uganda.
+I am an applied microeconomist working at the intersection of development economics, organizational economics, and public policy, with a focus on rural markets and firms. My research combines field experiments and administrative data to study how policies, institutions, and technology shape economic behavior---particularly within agricultural value chains and smallholder settings. Over the past decade, I've conducted research in Mexico, El Salvador, Malawi, and Uganda.  
+
+My work is supported by the [J-PAL – Digital Agricultural Innovations and Services (DAISI) Initiative](https://www.povertyactionlab.org/initiative/digital-agricultural-innovations-and-services-initiative-daisi), the [International Growth Centre (IGC)](https://www.theigc.org/), and the [Weiss Fund for Research in Development Economics](https://weissfund.uchicago.edu/).
 
 I received my bachelor’s degree in Economics from ITAM (Mexico City) and hold a dual master’s in Applied Economics and Public Policy from the University of Michigan–Ann Arbor.
 
@@ -21,7 +23,7 @@ I received my bachelor’s degree in Economics from ITAM (Mexico City) and hold 
 ---
 ### Upcoming Travel <a name="Travels"></a>
 
-I’ll be in **Chicago for the AFE 2025 Conference** on **September 18–19**. 
+I’ll be in **Washington, D.C. for the World Bank DIME--KDI School 6th Development Impact Conference** on **November 6–7**. 
 If you’ll be around and want to chat about research—or just catch up over coffee—feel free to reach out!
 
 ---
