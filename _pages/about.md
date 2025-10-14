@@ -32,3 +32,4 @@ If you’ll be around and want to chat about research or just catch up over coff
   - [Laura Schechter](https://econ.wisc.edu/staff/schechter-laura/) [[Email](mailto:lschechter@wisc.edu)] (Advisor)
   - [Priya Mukherjee](https://aae.wisc.edu/faculty/pmukherjee7/) [[Email](mailto:priya.mukherjee@wisc.edu)]
   - [Andrew Stevens](https://aae.wisc.edu/faculty/awstevens/) [[Email](mailto:awstevens@wisc.edu)]
+  - [Eduardo Montero](https://harris.uchicago.edu/directory/eduardo-montero) [[Email](mailto:emontero@uchicago.edu)]
