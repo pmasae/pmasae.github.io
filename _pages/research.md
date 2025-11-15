@@ -24,7 +24,7 @@ author_profile: true
 ### Selected Research in Progress <a name="In-progress"></a>
 
 - **Banking Amidst Conflict: How Violence Shapes Financial Inclusion in Mexico** -- with Xiaofei Wang (Data analysis ongoing)
-- **Aligning Incentives through Digital Monitoring: Evidence from the Ugandan Dairy Sector** (In progress)
+- **Digital Monitoring and Quality-Contingent Contracts: Aligning Incentives in the Ugandan Dairy Sector** (In progress)
 - **From Prayer to Progress: Religious Festivals and Development in Mexico** (In progress)
 
 ---
