@@ -8,8 +8,8 @@ author_profile: true
 {% include base_path %}
 
 ### University of Wisconsin -- Madison 
-- AAE 474/Econ 474: Economic Problems of Developing Areas -- Fall 2025
-- AAE 350: World Hunger and Malnutrition -- Spring 2022
+- ECON 474: Economic Problems of Developing Areas -- Fall 2025
+- APPLIEDECON 350: World Hunger and Malnutrition -- Spring 2022
 - MATH 221: Calculus and Analytic Geometry II -- Fall 2020
 
 ### University of Wisconsin -- Ann Arbor 
