@@ -23,8 +23,6 @@ I received my bachelor’s degree in Economics from ITAM (Mexico City) and hold 
 ---
 ### Upcoming Travel <a name="Travels"></a>
 
-I’ll be in **Washington, D.C. for the World Bank DIME--KDI School 6th Development Impact Conference** on **November 6–7**. 
-If you’ll be around and want to chat about research or just catch up over coffee, feel free to reach out!
 
 ---
 ### References <a name="Refs"></a>
