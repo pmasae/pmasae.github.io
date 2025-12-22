@@ -23,6 +23,7 @@ I received my bachelor’s degree in Economics from ITAM (Mexico City) and hold 
 ---
 ### Upcoming Travel <a name="Travels"></a>
 
+I’ll be at the *CSAE Conference 2026* on *March 22-24* at the *University of Oxford*. If you’ll be around and want to chat about research or just catch up over coffee, feel free to reach out!
 
 ---
 ### References <a name="Refs"></a>
