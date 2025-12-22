@@ -16,7 +16,7 @@ I am an applied microeconomist working at the intersection of development econom
 
 My work is supported by [J-PAL](https://www.povertyactionlab.org/), the [International Growth Centre (IGC)](https://www.theigc.org/), and the [Weiss Fund for Research in Development Economics](https://weissfund.uchicago.edu/).
 
-I received my bachelor’s degree in Economics from ITAM (Mexico City) and hold a dual master’s in Applied Economics and Public Policy from the University of Michigan–Ann Arbor.
+I received my bachelor’s degree in Economics from ITAM and hold a dual master’s in Applied Economics and Public Policy from the University of Michigan–Ann Arbor.
 
 **I will be on the 2025–26 academic job market.** If you're interested in my work or would like to connect, feel free to [get in touch](mailto:maganasaenz@wisc.edu)!
 
