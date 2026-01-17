@@ -14,7 +14,7 @@ author_profile: true
 
 - [**Signed, Sealed, Delivered: Digital Receipts in the Ugandan Dairy Chain**](https://github.com/pmasae/pmasae.github.io/blob/changes/_publications/PFMS_JMP.pdf) — with [David Henning](https://djhenning.github.io/)
   - *Presented at:* CSAE 2026 *(scheduled)*, MAE 2026 *(scheduled)*, World Bank–KDI School Development Impact Conference, AFE 2025, AAEA & WAEA 2025
-  - *Coverage:* [World Bank's Development Impact Blog](https://blogs.worldbank.org/en/impactevaluations/building-trust-and-transparency-via-text-message--how-digital-re)
+  - *Coverage:* [World Bank's Development Impact Blog](https://blogs.worldbank.org/en/impactevaluations/building-trust-and-transparency-via-text-message--how-digital-re), [IGC Blog](https://www.theigc.org/blogs/ugandas-dairy-supply-chain)
   - [AEA RCT Registry](https://www.socialscienceregistry.org/trials/14087)
 	
 	**Abstract:** 
