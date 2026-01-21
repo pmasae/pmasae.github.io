@@ -23,7 +23,7 @@ I received my bachelor’s degree in Economics from ITAM and hold a dual master�
 ---
 ### Upcoming Travel <a name="Travels"></a>
 
-I’ll be at the *[CSAE Conference 2026](https://www.csae.ox.ac.uk/csae-conference-2026)* on March 22-24 at the *University of Oxford*. If you’ll be around and want to chat about research or just catch up over coffee, feel free to reach out!
+I’ll be at *PacDev 2026* on March 14 at the *University of California, Davis* and the *[CSAE Conference 2026](https://www.csae.ox.ac.uk/csae-conference-2026)* on March 22-24 at the *University of Oxford*. If you’ll be around and want to chat about research or just catch up over coffee, feel free to reach out!
 
 ---
 ### Citizenship and U.S. work authorization <a name="Citizenship"></a>
