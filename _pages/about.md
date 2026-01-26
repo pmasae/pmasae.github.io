@@ -14,7 +14,7 @@ Hi there! I’m a Ph.D. candidate in Applied Economics at the University of Wisc
 
 I am an applied microeconomist working at the intersection of development economics, agricultural economics, organizational economics, and public policy, with a focus on rural markets and firms. My research combines field experiments and administrative data to study how policies, institutions, and technology shape economic behavior---particularly within agricultural value chains and smallholder settings. Over the past decade, I've conducted research in Mexico, El Salvador, Malawi, and Uganda.  
 
-My work is supported by [J-PAL](https://www.povertyactionlab.org/), the [International Growth Centre (IGC)](https://www.theigc.org/), [PEDL](https://grp.cepr.org/pedl), and the [Weiss Fund for Research in Development Economics](https://weissfund.uchicago.edu/).
+My work is supported by [J-PAL](https://www.povertyactionlab.org/), the [International Growth Centre (IGC)](https://www.theigc.org/), [PEDL](https://grp.cepr.org/pedl/), and the [Weiss Fund for Research in Development Economics](https://weissfund.uchicago.edu/).
 
 I received my bachelor’s degree in Economics from ITAM and hold a dual master’s in Applied Economics and Public Policy from the University of Michigan.
 
