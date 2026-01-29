@@ -25,7 +25,7 @@ author_profile: true
 
 ### Selected Research in Progress <a name="In-progress"></a>
 
-- **Digital Monitoring and Quality-Contingent Contracts: Aligning Incentives in the Ugandan Dairy Sector** -- with Taesoo Choi (In progress)
+- **Digital Monitoring and Quality-Contingent Contracts: Aligning Incentives in the Ugandan Dairy Sector** -- with Taesoo Choi (Pilot phase)
   - *Funded by:* [PEDL](https://grp.cepr.org/pedl/) and the [Weiss Fund for Research in Development Economics](https://weissfund.uchicago.edu/)
   
 	**Abstract:** 
