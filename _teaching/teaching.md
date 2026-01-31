@@ -10,7 +10,7 @@ author_profile: true
 Teaching Assistant -- Department of Mathematics & Department of Agricultural and Applied Economics
 
 - AAE/ECON 474: Economic Problems of Developing Areas -- Fall 2025
-- AAE 350: World Hunger and Malnutrition -- Spring 2022
+- AAE 350: World Hunger and Malnutrition -- Spring 2022 (**Best TA Award for the 2021–2022 academic year**)
 - MATH 221: Calculus and Analytic Geometry II -- Fall 2020
 
 
