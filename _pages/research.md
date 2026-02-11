@@ -13,7 +13,7 @@ author_profile: true
 ### Job Market Paper <a name="JMP"></a>
 
 - [**Signed, Sealed, Delivered: Digital Receipts in the Ugandan Dairy Chain**](https://github.com/pmasae/pmasae.github.io/blob/changes/_publications/PFMS_JMP.pdf) — with [David Henning](https://djhenning.github.io/)
-  - *Funded by:* [J-PAL](https://www.povertyactionlab.org/), the [International Growth Centre (IGC)](https://www.theigc.org/), and the [Weiss Fund for Research in Development Economics](https://weissfund.uchicago.edu/)
+  - *Supported by:* [J-PAL](https://www.povertyactionlab.org/), the [International Growth Centre (IGC)](https://www.theigc.org/), and the [Weiss Fund for Research in Development Economics](https://weissfund.uchicago.edu/)
   - *Presented at:* PacDev 2026 *(scheduled)*, CSAE 2026 *(scheduled)*, PSDRN Seminar Series 2025-2026 *(scheduled)*, MAE 2026 *(scheduled)*, World Bank–KDI School Development Impact Conference, AFE 2025, AAEA & WAEA 2025
   - *Coverage:* [World Bank's Development Impact Blog](https://blogs.worldbank.org/en/impactevaluations/building-trust-and-transparency-via-text-message--how-digital-re), [IGC Blog](https://www.theigc.org/blogs/ugandas-dairy-supply-chain)
   - [AEA RCT Registry](https://www.socialscienceregistry.org/trials/14087)
@@ -26,7 +26,7 @@ author_profile: true
 ### Selected Research in Progress <a name="In-progress"></a>
 
 - **Digital Monitoring and Quality-Contingent Contracts: Aligning Incentives in the Ugandan Dairy Sector** -- with Taesoo Choi (Pilot phase)
-  - *Funded by:* [PEDL](https://grp.cepr.org/pedl/) and the [Weiss Fund for Research in Development Economics](https://weissfund.uchicago.edu/)
+  - *Supported by:* [PEDL](https://grp.cepr.org/pedl/) and the [Weiss Fund for Research in Development Economics](https://weissfund.uchicago.edu/)
   
 	**Abstract:** 
 	We study how information frictions and misaligned incentives generate inefficiencies in agricultural value chains, focusing on Uganda’s dairy sector. Smallholder farmers depend on transporters to collect and deliver their daily milk to cooperatives, but they have limited visibility over this process. Transporters observe how milk is handled between pickup and delivery, including any alterations, and they report delivered quantities while facing frequently changing prices that are settled through biweekly payments. These features make it difficult for farmers to monitor intermediary behavior. At the same time, a uniform pricing system that pays a single price for milk meeting a minimum quality standard weakens incentives for quality and creates opportunities for profitable milk dilution. To address these frictions, we evaluate a bundled digital intervention implemented through cooperatives that improves transparency, aligns incentives across farmers, transporters, and cooperatives, and reduces scope for opportunistic behavior.
