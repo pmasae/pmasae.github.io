@@ -10,7 +10,7 @@ redirect_from:
 
 
 
-Hi there! I am a Ph.D. candidate in Applied Economics at the University of Wisconsin---Madison and an applied microeconomist working at the intersection of development and organizational economics. My research combines field experiments and administrative data to study how policies, institutions, and technology shape economic behavior in rural markets---particularly within agricultural value chains and smallholder settings. I have conducted research in Mexico, El Salvador, Malawi, and Uganda over the past decade.
+Hi there! I am a Ph.D. candidate at the University of Wisconsin---Madison and an applied microeconomist working at the intersection of development and organizational economics. My research combines field experiments and administrative data to study how policies, institutions, and technology shape economic behavior in rural markets---particularly within agricultural value chains and smallholder settings. I have conducted research in Mexico, El Salvador, Malawi, and Uganda over the past decade.
 
 My work is supported by [J-PAL](https://www.povertyactionlab.org/), the [International Growth Centre (IGC)](https://www.theigc.org/), [PEDL](https://grp.cepr.org/pedl/), and the [Weiss Fund for Research in Development Economics](https://weissfund.uchicago.edu/).
 
