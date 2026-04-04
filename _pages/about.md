@@ -28,11 +28,6 @@ In August 2026, I will join Nclusion as a Research Economist.
 ### Upcoming Travel <a name="Travels"></a>
 
 I’ll be at the *[MWIEDC](https://mwiedc.org/)* on April 24-25 at the *University of Wisconsin---Madison*. If you’ll be around and want to chat about research or just catch up over coffee, feel free to reach out!
-
----
-### Citizenship and U.S. work authorization <a name="Citizenship"></a>
-
-Mexican citizen with U.S. permanent residency
  
 ---
 ### References <a name="Refs"></a>
