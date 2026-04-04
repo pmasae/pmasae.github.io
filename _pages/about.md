@@ -16,7 +16,12 @@ My work is supported by [J-PAL](https://www.povertyactionlab.org/), the [Interna
 
 I hold a bachelor’s degree in Economics from ITAM and a dual master’s degree in Applied Economics and Public Policy from the University of Michigan.
 
-In August 2026, I will join Nclusion as a Research Economist. If you're interested in my work or would like to connect, feel free to [get in touch](mailto:maganasaenz@wisc.edu)!
+If you're interested in my work or would like to connect, feel free to [get in touch](mailto:maganasaenz@wisc.edu)!
+
+---
+### Updates <a name="Market"></a>
+
+In August 2026, I will join Nclusion as a Research Economist.
 
 ---
 ### Upcoming Travel <a name="Travels"></a>
