@@ -19,9 +19,10 @@ I hold a bachelor’s degree in Economics from ITAM and a dual master’s degree
 If you're interested in my work or would like to connect, feel free to [get in touch](mailto:maganasaenz@wisc.edu)!
 
 ---
-### Updates <a name="Market"></a>
+### News <a name="News"></a>
 
 In August 2026, I will join Nclusion as a Research Economist.
+
 
 ---
 ### Upcoming Travel <a name="Travels"></a>
