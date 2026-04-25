@@ -27,7 +27,7 @@ In August 2026, I will join Nclusion as a Research Economist.
 ---
 ### Upcoming Travel <a name="Travels"></a>
 
-I’ll be at *[Development Rookiefest](https://sites.northwestern.edu/developmentrookiefest/)* on May 12 at *Northwestern University*. If you’ll be around and want to chat about research or just catch up over coffee, feel free to reach out!
+I’ll be at [Development Rookiefest](https://sites.northwestern.edu/developmentrookiefest/) on May 12 at *Northwestern University*. If you’ll be around and want to chat about research or just catch up over coffee, feel free to reach out!
  
 ---
 ### References <a name="Refs"></a>
