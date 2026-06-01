@@ -25,7 +25,7 @@ author_profile: true
 
 ### Selected Research in Progress <a name="In-progress"></a>
 
-- [**Banking Amidst Conflict: How Violence Shapes Financial Inclusion in Mexico**](https://github.com/pmasae/pmasae.github.io/blob/changes/_publications/Banking_Amidst_Conflict_Draft.pdf)-- with Xiaofei Wang
+- [**Banking Amidst Conflict: How Violence Shapes Financial Inclusion in Mexico**](https://github.com/pmasae/pmasae.github.io/blob/changes/_publications/Banking_Amidst_Conflict_Draft.pdf) — with Xiaofei Wang
 
 	**Abstract:** 
 	We study how exposure to violence shapes the use of formal financial services in Mexico. Using administrative records on violent incidents, we construct out-of-sample predictions of violence and define violence shocks as unexpected deviations of realized violence from these predictions. We combine these shocks with nationwide administrative transaction data from the National Banking and Securities Commission covering ATM and correspondent banking activity across all municipalities. Measuring financial activity relative to municipality-specific seasonal baselines, we find that unexpected spikes in violence reduce ATM transactions per capita below their norm, with effects concentrated in the month of the shock and the following month and dissipating within two months. In contrast, we find no statistically significant response in correspondent banking activity at any horizon, with point estimates close to zero. This divergence indicates that violence primarily disrupts access to traditional ATM infrastructure rather than inducing broad financial disengagement, and suggests that correspondent banking can serve as a partial buffer against violence-induced disruptions.
