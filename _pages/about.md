@@ -19,11 +19,6 @@ I hold a bachelor’s degree in Economics from ITAM and a dual master’s degree
 If you're interested in my work or would like to connect, feel free to [get in touch](mailto:maganasaenz@wisc.edu)!
 
 ---
-### Talks <a name="Talk"></a>
-
-I will be presenting my job market paper, *Signed, Sealed, Delivered: Digital Receipts in the Ugandan Dairy Chain*, at the PSD Research Network on June 12th. Details and registration available [here](https://www.psdresearchnetwork.com/aw-event/ugandan-dairy-chain).
-
----
 ### News <a name="News"></a>
 
 In August 2026, I will join Nclusion as a Research Economist.
