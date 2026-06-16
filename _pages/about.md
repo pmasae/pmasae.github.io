@@ -10,11 +10,11 @@ redirect_from:
 
 
 
-Hi there! I am a Ph.D. candidate at the University of Wisconsin---Madison and an applied microeconomist working at the intersection of development and organizational economics. My research combines field experiments and administrative data to study how policies, institutions, and technology shape economic behavior in rural markets, particularly within agricultural value chains and smallholder settings. Over the past decade, I have conducted research in Mexico, El Salvador, Malawi, and Uganda.
+Hi there! I am an applied microeconomist working at the intersection of development and organizational economics. My research combines field experiments and administrative data to study how policies, institutions, and technology shape economic behavior in rural markets, particularly within agricultural value chains and smallholder settings. Over the past decade, I have conducted research in Mexico, El Salvador, Malawi, and Uganda.
 
 My work is supported by [J-PAL](https://www.povertyactionlab.org/), the [International Growth Centre (IGC)](https://www.theigc.org/), [PEDL](https://grp.cepr.org/pedl/), and the [Weiss Fund for Research in Development Economics](https://weissfund.uchicago.edu/).
 
-I hold a bachelor’s degree in Economics from ITAM and a dual master’s degree in Applied Economics and Public Policy from the University of Michigan.
+I hold a Ph.D. from the University of Wisconsin---Madison, a dual master’s degree in Applied Economics and Public Policy from the University of Michigan, and a bachelor’s degree in Economics from ITAM.
 
 If you're interested in my work or would like to connect, feel free to [get in touch](mailto:maganasaenz@wisc.edu)!
 
