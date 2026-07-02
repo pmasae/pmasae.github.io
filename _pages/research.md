@@ -10,7 +10,7 @@ author_profile: true
 - [Publications](#publications) -->
 
 
-### Job Market Paper <a name="JMP"></a>
+### Working Papers <a name="Working"></a>
 
 - [**Signed, Sealed, Delivered: Digital Receipts in the Ugandan Dairy Chain**](https://github.com/pmasae/pmasae.github.io/blob/changes/_publications/20260702_Digital_Receipts.pdf) — with [David Henning](https://djhenning.github.io/)
   - *Supported by:* [J-PAL](https://www.povertyactionlab.org/), the [International Growth Centre (IGC)](https://www.theigc.org/), and the [Weiss Fund for Research in Development Economics](https://weissfund.uchicago.edu/)
@@ -20,10 +20,6 @@ author_profile: true
 	
 	**Abstract:** 
 	Using a randomized experiment with dairy cooperatives in western Uganda, we provide causal evidence that SMS-based digital receipts for daily milk deliveries improve accountability, product quality, and delivery frequency. In a context of weak monitoring and imperfect transaction information, these messages allow smallholder farmers to better observe the behavior of intermediaries in the supply chain. The intervention effects vary with the intensity of information frictions. Among farmers facing high information frictions (i.e., those relying on intermediaries to transport milk), the intervention increased the detection of discrepancies and encouraged switching away from dishonest intermediaries. Farmers in low-friction settings (those who deliver milk themselves) delivered more frequently; the likely mechanism is a behavioral nudge created by receiving messages both on days with deliveries and days without deliveries. We also find that the intervention increased milk quality for both self-deliverers and farmers using transporters. Overall, our results show that simple digital tools can reduce information asymmetries and strengthen accountability in smallholder supply chains.
-	
----
-
-### Working Papers <a name="Working"></a>
 
 - [**Banking Amidst Conflict: How Violence Shapes Financial Inclusion in Mexico**](https://github.com/pmasae/pmasae.github.io/blob/changes/_publications/20260701_Banking_Amidst_Conflict.pdf) — with Xiaofei Wang
 
