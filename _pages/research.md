@@ -12,7 +12,7 @@ author_profile: true
 
 ### Job Market Paper <a name="JMP"></a>
 
-- [**Signed, Sealed, Delivered: Digital Receipts in the Ugandan Dairy Chain**](https://github.com/pmasae/pmasae.github.io/blob/changes/_publications/PFMS_JMP.pdf) — with [David Henning](https://djhenning.github.io/)
+- [**Signed, Sealed, Delivered: Digital Receipts in the Ugandan Dairy Chain**](https://github.com/pmasae/pmasae.github.io/blob/changes/_publications/20260702_Digital_Receipts.pdf) — with [David Henning](https://djhenning.github.io/)
   - *Supported by:* [J-PAL](https://www.povertyactionlab.org/), the [International Growth Centre (IGC)](https://www.theigc.org/), and the [Weiss Fund for Research in Development Economics](https://weissfund.uchicago.edu/)
   - *Presented at:* 2026 Development Economics Rookiefest, PacDev 2026, MWIEDC 2026, CSAE 2026, PSDRN Seminar Series 2025-2026, MAE 2026, World Bank–KDI School Development Impact Conference, AFE 2025, AAEA & WAEA 2025
   - *Coverage:* [World Bank's Development Impact Blog](https://blogs.worldbank.org/en/impactevaluations/building-trust-and-transparency-via-text-message--how-digital-re), [IGC Blog](https://www.theigc.org/blogs/ugandas-dairy-supply-chain)
@@ -25,7 +25,7 @@ author_profile: true
 
 ### Working Papers <a name="Working"></a>
 
-- [**Banking Amidst Conflict: How Violence Shapes Financial Inclusion in Mexico**](https://github.com/pmasae/pmasae.github.io/blob/changes/_publications/Banking_Amidst_Conflict_Draft.pdf) — with Xiaofei Wang
+- [**Banking Amidst Conflict: How Violence Shapes Financial Inclusion in Mexico**](https://github.com/pmasae/pmasae.github.io/blob/changes/_publications/20260701_Banking_Amidst_Conflict.pdf) — with Xiaofei Wang
 
 	**Abstract:** 
 	We study how exposure to violence shapes the use of formal financial services in Mexico. Using administrative records on violent incidents, we train a long short-term memory (LSTM) neural network to generate out-of-sample, municipality-level forecasts of violence and define violence shocks as unexpected deviations of realized violence from these predictions. We combine these shocks with nationwide administrative transaction data from the National Banking and Securities Commission (CNBV) covering ATM and correspondent banking activity across all municipalities from 2014 to 2019. We find that unexpected spikes in violence reduce ATM transactions per capita by approximately 1.6 percent in the month of the shock and 1.3 percent the following month, with effects dissipating within two months. In contrast, we find no statistically significant response in correspondent banking activity at any horizon, with point estimates close to zero. This divergence indicates that violence primarily disrupts access to traditional ATM infrastructure rather than inducing broad financial disengagement, and suggests that correspondent banking can serve as a partial buffer against violence-induced disruptions.
