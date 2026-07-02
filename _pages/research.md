@@ -9,7 +9,6 @@ author_profile: true
 - [Selected Research in Progress](#In-progress)
 - [Publications](#publications) -->
 
-
 ### Working Papers <a name="Working"></a>
 
 - [**Signed, Sealed, Delivered: Digital Receipts in the Ugandan Dairy Chain**](https://github.com/pmasae/pmasae.github.io/blob/changes/_publications/20260703_Digital_Receipts.pdf) — with [David Henning](https://djhenning.github.io/)
