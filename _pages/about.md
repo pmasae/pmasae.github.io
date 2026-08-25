@@ -16,7 +16,7 @@ My work is supported by [J-PAL](https://www.povertyactionlab.org/), the [Interna
 
 I hold a Ph.D. from the University of Wisconsin---Madison, a dual master’s degree in Applied Economics and Public Policy from the University of Michigan, and a bachelor’s degree in Economics from ITAM.
 
-If you're interested in my work or would like to connect, feel free to [get in touch](mailto:maganasaenz@wisc.edu)!
+If you're interested in my work or would like to connect, feel free to [get in touch](mailto:pedro.masaenz@gmail.com)!
  
 ---
 ### References <a name="Refs"></a>
