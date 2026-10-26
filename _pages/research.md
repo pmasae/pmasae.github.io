@@ -11,7 +11,7 @@ author_profile: true
 
 ### Working Papers <a name="Working"></a>
 
-- [**Signed, Sealed, Delivered: Digital Receipts in the Ugandan Dairy Chain**](https://github.com/pmasae/pmasae.github.io/blob/changes/_publications/20261013_Digital_Receipts.pdf) — with [David Henning](https://djhenning.github.io/)
+- [**Signed, Sealed, Delivered: Digital Receipts in the Ugandan Dairy Chain**](https://github.com/pmasae/pmasae.github.io/blob/changes/_publications/20261026_Digital_Receipts.pdf) — with [David Henning](https://djhenning.github.io/)
   - *Supported by:* [J-PAL](https://www.povertyactionlab.org/), the [International Growth Centre (IGC)](https://www.theigc.org/), and the [Weiss Fund for Research in Development Economics](https://weissfund.uchicago.edu/)
   - *Presented at:* NEUDC 2026, 2026 Development Economics Rookiefest, PacDev 2026, MWIEDC 2026, CSAE 2026, PSDRN Seminar Series 2025-2026, MAE 2026, World Bank–KDI School Development Impact Conference, AFE 2025, AAEA & WAEA 2025
   - *Coverage:* [World Bank's Development Impact Blog](https://blogs.worldbank.org/en/impactevaluations/building-trust-and-transparency-via-text-message--how-digital-re), [IGC Blog](https://www.theigc.org/blogs/ugandas-dairy-supply-chain)
