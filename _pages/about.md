@@ -20,8 +20,6 @@ If you're interested in my work or would like to connect, feel free to [get in t
 
 ---
 ### Updates <a name="Updates"></a>
-
-I'll be presenting my work at [NEUDC 2026](https://cidercornell.github.io/neudc2026/) at Cornell University on November 7–8. If you'll be there, feel free to say hi — always happy to chat over coffee!
  
 ---
 ### References <a name="Refs"></a>
